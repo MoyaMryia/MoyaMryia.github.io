@@ -9,7 +9,7 @@
 lang: en
 
 # Change to your timezone › https://zones.arilyn.cc
-timezone:Asia/Shanghai
+timezone: Asia/Shanghai
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://moyamryia.github.io/"
+url: "https://moyamryia.github.io"
 
 github:
   username: MoyaMryia # change to your GitHub username
